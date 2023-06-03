@@ -160,5 +160,41 @@
       "tools": ["React", "Sass"],
       "likedBy": []
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "sharon@group2.io",
+      "role": "employer",
+      "password": "123456",
+      "company": "Loop Studios"
+    },
+    {
+      "id": 2,
+      "email": "isaac@group2.io",
+      "role": "user",
+      "password": "123456",
+      "company": null
+    },
+    {
+      "id": 3,
+      "email": "nurdin@group2.io",
+      "role": "user",
+      "password": "123456",
+      "company": null
+    },
+    {
+      "id": 4,
+      "email": "susan@group2.io",
+      "role": "employer",
+      "password": "123456"
+    },
+    {
+      "id": 5,
+      "email": "nick@group2.io",
+      "role": "user",
+      "password": "123456",
+      "company": null
+    }
   ]
 }
